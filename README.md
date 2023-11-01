@@ -22,4 +22,6 @@ The dataset is available in the 'dataset' folder. This folder contains two CSV f
 
 Both files were obtained from Kaggle. The 'covid_19_india' file contains the raw data. After processing the data, the results were stored in the 'new.csv' file.
 
+The codes were present in 'load.py' file
+
 
